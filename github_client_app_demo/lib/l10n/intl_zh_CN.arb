@@ -1,0 +1,18 @@
+{
+  "cancel" : "取消",
+  "home" : "Github客户端",
+  "language" : "语言",
+  "login" : "登录",
+  "logout" : "注销",
+  "logoutTip" : "确定要退出当前账号吗?",
+  "noDescription" : "暂无描述!",
+  "password" : "密码",
+  "passwordRequired" : "密码不能为空",
+  "setting" : "设置",
+  "theme" : "换肤",
+  "title" : "Github客户端",
+  "userName" : "用户名",
+  "userNameOrPasswordWrong" : "用户名或密码不正确",
+  "userNameRequired" : "用户名不能为空",
+  "yes" : "确定"
+}

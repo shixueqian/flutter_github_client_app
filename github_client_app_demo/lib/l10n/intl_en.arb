@@ -1,0 +1,19 @@
+{
+  "auto" : "Auto",
+  "cancel" : "cancel",
+  "home" : "Github",
+  "language" : "Language",
+  "login" : "Login",
+  "logout" : "logout",
+  "logoutTip" : "Are you sure you want to quit your current account?",
+  "noDescription" : "No description yet !",
+  "password" : "Password",
+  "passwordRequired" : "Password required!",
+  "setting" : "Setting",
+  "theme" : "Theme",
+  "title" : "Flutter APP",
+  "userName" : "User Name",
+  "userNameOrPasswordWrong" : "User name or password is not correct!",
+  "userNameRequired" : "User name required!",
+  "yes" : "yes"
+}
